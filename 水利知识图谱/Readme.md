@@ -16,8 +16,8 @@
 4. 知识融合：通过词汇表映射法（同一模型的不同表述映射到标准名称）来实体融合解决实体多词共指+同样采用词汇映射表将同义评价指标整理对齐
 5. 知识存储：Neo4j存储
 
-# 实例
-敲代码中，完成后会更新
+
+
 
 #  面向水利防汛抢险的知识图谱构建与应用
 [面向水利防汛抢险的知识图谱构建与应用](https://mp.weixin.qq.com/s/SqHaZMxSzF2bd9lHErYO7A)
@@ -36,10 +36,13 @@
 亮点：三元组+《水利水电工程设计术语标准》SL26-2012—>五元组
 
 # 知识图谱在水利工程中的构建与应用
-
+[知识图谱在水利工程中的构建与应用](https://mp.weixin.qq.com/s/s-JUhfTG5Lila085oMkr1g)
 1. 数据清洗、整合和标准化处理
 2. 《水利对象分类与编码总则》确定概念节点（或者说节点类型）+对象基础信息作为类型的属性和属性数据节点+二分图映射算法（其中的节点可以分成两组，且每条边连接的节点分别来自不同组）来确定概念节点之间的关系
-3. 根据概率节点和熟悉和关系，通过具体数据进行实例化（推理规则蕴含在关系中）
+3. 根据概率节点和属性和关系，通过具体数据进行实例化（推理规则蕴含在关系中）
 4. Echarts可视化提供检索和推荐
 
 
+# 代码
+
+[https://github.com/FULLK/Intelligent_Water_Management_Emergency_Response-Studying/tree/master/%E6%B0%B4%E5%88%A9%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1](https://github.com/FULLK/Intelligent_Water_Management_Emergency_Response-Studying/tree/master/%E6%B0%B4%E5%88%A9%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
